@@ -1,21 +1,18 @@
 # Session X
 
-**Date**: 2021-09-11
-**System**: D&D 5e
-**GME**: Mythic
-**Characters**: Zothao
+**Date**: 2021-09-11  
+**System**: D&D 5e  
+**GME**: Mythic  
+**Characters**: Zothao  
 
 ## Formatting Guide
 
 Narrative is written like this.
 
->	| System/GME mechanics are written like this.
+    System/GME mechanics are written like this.
 
->	SPEAKER
->	Dialogue is written like this.
-
->	>>> Work through writer's block. Remember, writer's block doesn't usually mean that you have no ideas, just that you're not satisfied with the idea you have. Start writing about it!
-
+> SPEAKER  
+> Dialogue is written like this.  
 
 ## Setup
 
@@ -23,87 +20,92 @@ The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missi
 
 ## Scene 1
 **Setup**: Zothao waits the arrival of the new initiate
+
 **Altered/Interrupted**: [Divide, the spiritual] Zothao awaits the arrival of the new initiate at the port, a few kilometres from the monastery.
+
 **What's fun about this scene**: Just exploring Zothao's world and the protocols and atmosphere of the monastery.
 
 Yreni Docks, Isle of Dandrak. Zothao afraid of the docks. Doesn't like people. Doesn't like how close he is to the edge of the rock. What if he fell? What would it be like? He feels queasy, and attempts to meditate, take his mind off it. Minutes pass. Then hours. A young dockworker brings him a bowl of water, to which Zothao expresses his gratitude. Water. The most precious resource on Arianus. Islands of earth floating in an endless sky. Rain is rare, and not a single drop of water can be wasted.
 
->	| How late is the transport? Is it more than a day (50%)? 57. No.
+    How late is the transport? Is it more than a day (50%)? 57. No.
 
 The transport was due to arrive early morning, but it is mid-afternoon by the time the lookout ring the bell to indicate the approach of the vessel. By the time it is visible, it is already quite close to the island.
 
->	| What kind of transport is it? [Attract, bureaucracy] I'd say it's a ship.
->	| Where is it coming from? [Starting, messages] A hub, perhaps the capital of this nation.
->	| Any interesting details about the vessel? I'd like to use some spelljammer vessels, so roll:
->		1. dragonfly
->		2. hammership
->		3. squidship
->		4. tradesman
->		5. galleon
->		6. longship
->	| 2. Hammership
+    What kind of transport is it? [Attract, bureaucracy] I'd say it's a ship.
+    Where is it coming from? [Starting, messages] A hub, perhaps the capital of this nation.
+    Any interesting details about the vessel? I'd like to use some spelljammer vessels, so roll:
+        1. dragonfly
+        2. hammership
+        3. squidship
+        4. tradesman
+        5. galleon
+        6. longship
+    Get 2. Hammership.
 
 The ship aligns with the isle's plane, and glides towards the dock. A hammership. Military? Surprising. What kind of person is this?
 
 As the ship nears the jetty, the sounds of barked orders can be heard. Eventually, it pulls in. The gangplank is lowered, and a line of people begins to descend onto the dock.
 
->	| Who is the visitor? Character Crafter. 51. Member of an organisation. 40. Administrator. 92. Hurt. I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
+    Who is the visitor? Character Crafter. 51. Member of an organisation. 40. Administrator. 92. Hurt. I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
 
 Zothao stands proud, anxious not to represent the monastery in the best light possible, but also assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
 
 People stream past him, but none of them give him a second look. Has he missed them? No. He groans inwardly as the last people off the ship carry a palanquin. Ah. So this is the new initiate. A royal scion so delicate that they can't even walk themselves off a boat. Just his luck.
 
 ## Scene 2
+
 **Setup**: Zothao meets the new arrival
+
 **Altered/Interrupted**: No
+
 **What's fun about this scene**: Finding out who this person is and interacting with them.
 
 Zothao moves to greet the palanquin.
 
-	| What's the name of this person? Tenfrith.
+    What's the name of this person? Tenfrith.
 
-	ZOTHAO
-	Prince Tenfrith, I presume? Welcome to Dendrak. I am Zothao, brother of the...
+> ZOTHAO
+> Prince Tenfrith, I presume? Welcome to Dendrak. I am Zothao, brother of the...
 
-	| What's Zothao's order called? [Usurp, suffering] Order of the Consummate Sorrow.
+    What's Zothao's order called? [Usurp, suffering] Order of the Consummate Sorrow.
 
-	ZOTHAO
-	...Consummate Sorrow. I am here to escort you to the monastery.
+> ZOTHAO
+> ...Consummate Sorrow. I am here to escort you to the monastery.
 
-	| How does Prince Tenfrith react? [Kill, the mundane]
-	| What is he like? Poor. Maybe ill?
+    How does Prince Tenfrith react? [Kill, the mundane]
+    What is he like? Poor. Maybe ill?
 
 Zothao hears a weak, but cheerful voice from within the palanquin.
 
-	TENFRITH
-	Zothao! Yes, I am indeed Tenfrith. Thank you, my journey has been long.
+> TENFRITH
+> Zothao! Yes, I am indeed Tenfrith. Thank you, my journey has been long.
 
 There's a pause as a phlegmy cough erupts from inside.
 
-	TENFRITH
-	Please, do not put on airs and graces for me. Let me look at you.
+> TENFRITH
+> Please, do not put on airs and graces for me. Let me look at you.
 
 The faint silhouette of a figure, obscured by the gossamer curtains of the palanquin, leans forward.
 
 Zothao is slender but sinewy after years of physical training and labour. His head is shaven, but he sports a long black beard.
 
-	| What about his monk's robes? [Decrease, the public].
+    What about his monk's robes? [Decrease, the public].
 
 He wears the standard white linen hooded poncho and trousers typical of his order. Flagrant displays of the body are discouraged among the followers of the Consummate Sorrow.
 
-	TENFRITH
-	Would you lower your hood?
+> TENFRITH
+> Would you lower your hood?
 
-	ZOTHAO
-	I... I'm afraid that is forbidden in public, Prince.
+> ZOTHAO
+> I... I'm afraid that is forbidden in public, Prince.
 
 He hesitates to use the correct form of address. If the prince is to be an initiate, he must relinquish any past titles or binds to the world, just as Zothao did.
 
-	TENFRITH
-	Of course, forgive me.
+> TENFRITH
+> Of course, forgive me.
 
-	ZOTHAO
-	If you will follow me. The monastery is some distance from the town. We have something of a walk ahead of us.
+> ZOTHAO
+> If you will follow me. The monastery is some distance from the town. We have something of a walk ahead of us.
 
 The guards carrying the palanquin follow behind Zothao as he leads them through the town and out into the surrounding pasturelands.
 
