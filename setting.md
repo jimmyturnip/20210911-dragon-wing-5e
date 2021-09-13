@@ -1,6 +1,6 @@
 # Setting
 
-Although the world of Arianus is a material plane, it is strongly influenced by the Plane of Air - islands floating in an airy sky.
+Although the world of Arianus is a material plane, it is strongly influenced by the Plane of Air - islands floating in an airy sky. Maybe it is on the Plane of Air, maybe it's a demi-plane, maybe it's a fantasy gas giant. Doesn't really matter, and I like that there's no answer...yet, at least.
 
 **What about the day and night cycle?**  
 From the book, *Dragon Wing*, I'm stealing some ideas:
