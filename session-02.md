@@ -112,10 +112,8 @@ In the courier's office, Zothao approaches the figure sitting at a scribe's desk
     Has Zothao met Manse before (50%)? 88. No.
 
     Author's Note: This feels like a bit of a distraction, but who knows, maybe this  
-    character is somehow important? Racial pre-determinism isn't fun, but I'm wondering  
-    if air genasis might have some special role in this setting. Maybe they're more  
-    likely that others to become couriers - not because of their race, more their  
-    abilities. Meh...
+    character is somehow important? I'm struggling against my urge to include some kind  
+    of racial pre-determinism about genasis, but let's try and avoid that!
 
 The figure behind the desk looks human initially, but Zothao sees their pale blue skin (not unlike his own), pale feathers for hair, and strange many-pupilled eyes. A genasi. Children's stories tell that these beings came down from the starry Firmament. Well, to the business at hand.
 
