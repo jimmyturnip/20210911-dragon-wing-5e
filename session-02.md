@@ -78,7 +78,7 @@ Zothao looks concerned, but nods in appreciation. He turns and leaves, sure the 
 
 ## Scene 2
 **Setup**: Zothao heads to Tzin's house.  
-**Interrupted**: [Take, advice] The guard who admitted Zothao has a quiet word with him. 
+**Interrupted**: [Take, advice] The guard who admitted Zothao has a quiet word with him.  
 **What's fun about this scene**: Hopefully, some new information about Tzin.  
 
 As he's leaving the barracks, the guard who admitted him clasps Zothao's arm.
@@ -99,7 +99,20 @@ Zothao expresses thanks and moves along. So, the courier's office. That could on
 **Altered**: [Waste, the innocent] Zothao heads to the courier's office, but also pays some street kids to watch out for Tzin.  
 **What's fun about this scene**: Maybe finding out what kind of message Tzin is trying to send.  
 
-The courier's office is near the docks, and as Zothao arrives, a gang of street kids squat over a game.
+The courier's office is near the docks, and as Zothao arrives, a gang of street kids squat over a game. He flips one a coin and tells them to look out for Tzin. (Yreni's not that big - they probably know who he is).
+
+In the courier's office, Zothao approaches the figure sitting at a scribe's desk.
+
+    What race are they? (d10) 1 dwarf, 2 elf, 3 halfling, 4 human, 5 dragonborn,  
+    6 gnome, 7 half-elf, 8 half-orc, 9 tiefling, 0 other.  
+    I roll 0, so other. Let's say they're an air genasi - that'd be fitting for this setting.  
+    Let's roll on the Adventure Crafter's character crafter tables.  
+    Descriptors: Colourful, gentle  
+    Name: Manse  
+    Has Zothao met Manse before (50%)? 88. No.
+
+[Image of Manse, the air genasi](https://i0.wp.com/nerdarchy.com/wp-content/uploads/2017/09/air-genasi-2.png?w=319&ssl=1)
+
 
 
 

@@ -49,7 +49,7 @@
 47. Lidane
 48. Liona
 49. Madravane
-50. Manse
+50. **Manse**
 51. Marlette
 52. Mekhis
 53. Melyemor

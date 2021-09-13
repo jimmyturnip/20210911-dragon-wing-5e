@@ -2,7 +2,7 @@
 
 *13 September 2021*
 
-This repo contains the files for my solo D&D 5th Edition game. The setting is a world of floating islands and political intrigue, inspired by the novel *Dragon Wing* by Margaret Weis and Tracy Chapman. The sessions focus on the adventures of Zothao, a naive and hidebound half-orc monk, who's trying to make sense of his place in this strange, dangerous world.
+This repo contains the files for my solo D&D 5th Edition game. The setting is a world of floating islands and political intrigue, inspired by the novel *Dragon Wing* by Margaret Weis and Tracy Hickman. The sessions focus on the adventures of Zothao, a naive and hidebound half-orc monk, who's trying to make sense of his place in this strange, dangerous world.
 
 Gaming resources used:
 

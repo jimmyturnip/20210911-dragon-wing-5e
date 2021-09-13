@@ -26,6 +26,10 @@ A powerful monarchy of the Mid Realm. Ruled by Queen Cyriene. Territory encompas
 
 Lady Eray is the administrative ruler of Dandrak. Although not obliged to, she often submits to the abbot of the Consummate Sorrow, Vathras.
 
+## Manse
+
+Air genasi courier in Yreni, Dandrak isle.
+
 ## Monteflore
 
 Knight, and agent of Chancellor Atheppio. Followed Tenfrith to Dandrak. Possibly a hesitant assassin?
