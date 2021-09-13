@@ -4,12 +4,14 @@
 **System**: D&D 5e  
 **GME**: Mythic  
 **Characters**: Zothao  
+**Content Warnings**: Ableism  
 
 ## Formatting Guide
 
 Narrative is written like this.
 
-    System/GME mechanics are written like this.
+    System/GME mechanics are written like this.  
+    Mythic Event Action and Meaning results are in square brackets, e.g. [Struggle, a path]
 
 > SPEAKER  
 > Dialogue is written like this.  
@@ -18,17 +20,32 @@ Narrative is written like this.
 
 [Write something about the opening scene.]
 
+
+
+
+
+
 ## Scene 1
-**Setup**: 
-**Altered/Interrupted**: 
-**What's fun about this scene**: 
+**Setup**:  
+**Altered/Interrupted**:  
+**What's fun about this scene**:  
+
+
+
+
+
 
 ## Scene X
-**Setup**: 
-**Altered/Interrupted**: 
-**What's fun about this scene**: 
+**Setup**:  
+**Altered/Interrupted**:  
+**What's fun about this scene**:  
+
+
+
+
+
 
 ## Scene X
-**Setup**: 
-**Altered/Interrupted**: 
-**What's fun about this scene**: 
+**Setup**:  
+**Altered/Interrupted**:  
+**What's fun about this scene**:  

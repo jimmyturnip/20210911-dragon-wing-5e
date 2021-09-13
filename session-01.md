@@ -10,7 +10,8 @@
 
 Narrative is written like this.
 
-    System/GME mechanics are written like this.
+    System/GME mechanics are written like this.  
+    Mythic Event Action and Meaning results are in square brackets, e.g. [Struggle, a path]
 
 > SPEAKER  
 > Dialogue is written like this.  
@@ -54,6 +55,10 @@ As the ship nears the jetty, the sounds of barked orders can be heard. Eventuall
 Zothao stands proud, anxious to represent the monastery in the best light possible, but also to assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
 
 People stream past him, but none of them give him a second look. Has he missed them? No. He groans inwardly as the last people off the ship carry a palanquin. Ah. So this is the new initiate. A royal scion so delicate that they can't even walk themselves off a boat. Just his luck.
+
+
+
+
 
 ## Scene 2
 **Setup**: Zothao meets the new arrival  
@@ -109,6 +114,10 @@ He hesitates to use the correct form of address. If the prince is to be an initi
 
 The guards carrying the palanquin follow behind Zothao as he leads them through the town and out into the surrounding pasture lands.
 
+
+
+
+
 # Scene 3
 **Setup**: [Abandon, riches] A few days later, Tenfrith talks to Zothao about leaving behind the trappings of his life in the capital  
 **Altered/Interrupted**: No  
@@ -161,6 +170,10 @@ Monastery of the Consummate Sorrow. Zothao has been tasked with supervising Tenf
 > Of course there is. I'm the prince!
 
 Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's limbs.
+
+
+
+
 
 ## Scene 4
 **Setup**: [Betray, travel] Cut scene in which one of Tenfrith's fellow travellers reports back to superiors.  
