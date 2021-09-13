@@ -14,6 +14,6 @@
 
 **Minor Actors**:
 
+- Monteflore. Grizzled guardsman (knight). Antagonist.
 - Ruler's personal body-servant
-- Grizzled guardsman
 - Court musician

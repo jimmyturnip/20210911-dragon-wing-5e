@@ -1,5 +1,6 @@
 **Name**: Zothao  
 **Race**: Half-Orc  
+**Class & Level**: Monk 1
 **Background**: Acolyte  
 
 Str 11 (+0)  
@@ -9,8 +10,8 @@ Int 9 (-1)
 Wis 14 (+2)  
 Cha 13 (+1)  
 
-AC: 16 (+4 Dex, +2 Wis)  
-HP: 11
+**AC**: 16 (+4 Dex, +2 Wis)  
+**HP**: 11
 
 **Racial Traits**:
 
@@ -26,7 +27,7 @@ HP: 11
 **Weapons**: Simple weapons, shortswords  
 **Tools**: Calligrapher's supplies  
 **Saving Throws**: Strength, Dexterity  
-**Skills**: Athletics, Insight, Religion, Stealth  
+**Skills**: Athletics, Insight, Intimidation, Religion, Stealth  
 
 **Background Feature**: Shelter of the Faithful
 

@@ -18,7 +18,7 @@ Narrative is written like this.
 
 ## Setup
 
-The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.
+*The gods giveth, and the gods taketh away*: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.
 
 ## Scene 1
 **Setup**: Zothao waits the arrival of the new initiate  
@@ -180,7 +180,7 @@ Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's
 **Altered/Interrupted**: No  
 **What's fun about this scene**: New characters (faction?)
 
-    NOTE: Monteflore and Atheppio were generated in the Royal House of Dorenei Court document.
+    NOTE: Monteflore and Atheppio were generated in the [Royal House of Dorenei](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/court-dorenei.md) Court document.
 
 Dorenei. The treasury keeper's tower. Monteflore bows slightly.
 
