@@ -1,83 +1,62 @@
-/*
-|-------------------------------------------
-| SESSION 1
-|-------------------------------------------
-*/
+# Session X
 
-Date: 2021-09-11
-System: D&D 5e
-GME: Mythic
-Characters: Zothao
+**Date**: 2021-09-11
+**System**: D&D 5e
+**GME**: Mythic
+**Characters**: Zothao
 
-/*
-|-------------------------------------------
-| Formatting Guide
-|-------------------------------------------
-*/
+## Formatting Guide
 
 Narrative is written like this.
 
-	| System/GME mechanics are written like this.
+>	| System/GME mechanics are written like this.
 
-	SPEAKER
-	Dialogue is written like this.
+>	SPEAKER
+>	Dialogue is written like this.
 
-	>>> Work through your writer's block. Remember, writer's block doesn't usually mean that you have no ideas, just that you're not satisfied with the idea you have. Start writing about it!
+>	>>> Work through writer's block. Remember, writer's block doesn't usually mean that you have no ideas, just that you're not satisfied with the idea you have. Start writing about it!
 
 
-/*
-|-------------------------------------------
-| Setup
-|-------------------------------------------
-*/
+## Setup
 
 The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.
 
-/*
-|-------------------------------------------
-| SCENE 1
-|-------------------------------------------
-| Setup: Zothao waits the arrival of the new initiate
-| Altered: [Divide, the spiritual] Zothao awaits the arrival of the new initiate at the port, a few kilometres from the monastery.
-| What's fun about this scene: Just exploring Zothao's world and the protocols and atmosphere of the monastery.
-|-------------------------------------------
-*/
+## Scene 1
+**Setup**: Zothao waits the arrival of the new initiate
+**Altered/Interrupted**: [Divide, the spiritual] Zothao awaits the arrival of the new initiate at the port, a few kilometres from the monastery.
+**What's fun about this scene**: Just exploring Zothao's world and the protocols and atmosphere of the monastery.
 
 Yreni Docks, Isle of Dandrak. Zothao afraid of the docks. Doesn't like people. Doesn't like how close he is to the edge of the rock. What if he fell? What would it be like? He feels queasy, and attempts to meditate, take his mind off it. Minutes pass. Then hours. A young dockworker brings him a bowl of water, to which Zothao expresses his gratitude. Water. The most precious resource on Arianus. Islands of earth floating in an endless sky. Rain is rare, and not a single drop of water can be wasted.
 
-	| How late is the transport? Is it more than a day (50%)? 57. No.
+>	| How late is the transport? Is it more than a day (50%)? 57. No.
 
 The transport was due to arrive early morning, but it is mid-afternoon by the time the lookout ring the bell to indicate the approach of the vessel. By the time it is visible, it is already quite close to the island.
 
-	| What kind of transport is it? [Attract, bureaucracy] I'd say it's a ship.
-	| Where is it coming from? [Starting, messages] A hub, perhaps the capital of this nation.
-	| Any interesting details about the vessel? I'd like to use some spelljammer vessels, so roll:
-		1. dragonfly
-		2. hammership
-		3. squidship
-		4. tradesman
-		5. galleon
-		6. longship
-	| 2. Hammership
+>	| What kind of transport is it? [Attract, bureaucracy] I'd say it's a ship.
+>	| Where is it coming from? [Starting, messages] A hub, perhaps the capital of this nation.
+>	| Any interesting details about the vessel? I'd like to use some spelljammer vessels, so roll:
+>		1. dragonfly
+>		2. hammership
+>		3. squidship
+>		4. tradesman
+>		5. galleon
+>		6. longship
+>	| 2. Hammership
 
 The ship aligns with the isle's plane, and glides towards the dock. A hammership. Military? Surprising. What kind of person is this?
 
 As the ship nears the jetty, the sounds of barked orders can be heard. Eventually, it pulls in. The gangplank is lowered, and a line of people begins to descend onto the dock.
 
-	| Who is the visitor? Character Crafter. 51. Member of an organisation. 40. Administrator. 92. Hurt. I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
+>	| Who is the visitor? Character Crafter. 51. Member of an organisation. 40. Administrator. 92. Hurt. I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
 
 Zothao stands proud, anxious not to represent the monastery in the best light possible, but also assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
 
 People stream past him, but none of them give him a second look. Has he missed them? No. He groans inwardly as the last people off the ship carry a palanquin. Ah. So this is the new initiate. A royal scion so delicate that they can't even walk themselves off a boat. Just his luck.
 
-/*
-|-------------------------------------------
-| SCENE 2
-|-------------------------------------------
-| Setup: Zothao meets the new arrival
-| What's fun about this scene: Finding out who this person is and interacting with them.
-|-------------------------------------------
-*/
+## Scene 2
+**Setup**: Zothao meets the new arrival
+**Altered/Interrupted**: No
+**What's fun about this scene**: Finding out who this person is and interacting with them.
 
 Zothao moves to greet the palanquin.
 

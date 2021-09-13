@@ -1,4 +1,4 @@
-# Adventure Crafter Template
+# Mythic Adventure Crafter
 
 ## Setting
 
