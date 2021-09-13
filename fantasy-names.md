@@ -5,7 +5,7 @@
 3. Aleyne
 4. Althrad
 5. Anfreld
-6. 
+6. **Atheppia**
 7. Athok
 8. Avi
 9. Azakar
@@ -14,14 +14,14 @@
 12. Bryden
 13. Calista
 14. Cambat
-15. 
+15. **Cyriene**
 16. Dondri
 17. Doran
-18. 
+18. **Dorinel**
 19. Drumbar
 20. Elijah
 21. Elison
-22. 
+22. **Eray**
 23. Erodan
 24. Eruthere
 25. Galdak
@@ -53,7 +53,7 @@
 51. Marlette
 52. Mekhis
 53. Melyemor
-54. 
+54. **Monteflore**
 55. Narram
 56. Orsull
 57. Preston
@@ -74,7 +74,7 @@
 72. Taku
 73. Talkar
 74. Tatia
-75. 
+75. **Tenfrith**
 76. Tenleigh
 77. Therik
 78. Tojamuk
@@ -82,23 +82,21 @@
 80. Turuab
 81. Tyemhein
 82. Tyndremelien
-83. 
+83. **Tzin**
 84. Undri
 85. Urndel
 86. Valant
 87. Vanijen
 88. Vanya
-89. 
+89. **Vathra**
 90. Vekra
 91. Vinthari
 92. Walma
 93. Wilda
 94. Wilemar
-95. 
+95. **Wirann**
 96. Yabuleth
 97. Zayd
 98. Zincara
 99. Zioru
-100. 
-
-
+100. **Zothao**
