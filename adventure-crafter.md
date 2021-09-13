@@ -32,8 +32,8 @@
 
 01-04	Zothao  
 05-08	Tzin (guard, uniformed, inept - in love)  
-09-12	Royal House of Dorinei (faction/court - see *Godbound*)  
-13-16	Order of the Consummate Sorrow (faction/court - see *Godbound*)  
+09-12	Royal House of Dorinei (court)  
+13-16	Order of the Consummate Sorrow (court)  
 17-20	Prince Tenfrith  
 21-24	Monteflore (principled, fighter), spy who followed Tenfrith to Dandrak  
 25-28	New character  
@@ -74,5 +74,5 @@ I use this as a workspace for developing plotlines.
 Can't remember which results I rolled on the Adventure Crafter. There were three, something like:
 
 - **A character disappears**. A Character is nowhere to be found. Whether there is evidence or not as to what happened to the Character is up to you depending on the other Plot Points involved in this Turning Point. *Created Zothao's friend, Tzin*
-- **A Mysterious New Person**: This Turning Point automatically Invokes a New Character, added to the List, whose identity or purpose is not fully known. Maybe they are a shadowy visitor at a meeting, or someone who seems to have authority over someone else. *Created new arrival to the monastery, Tenfrith*
-- **A Need to Hide**: A Character must hide from something or someone in this Turning Point. For instance, the Character may have escaped from a bounty hunter but must hide long enough to recover their wounds. Or, a terrible storm has struck and the Character must take shelter, hiding from the storm. *Tenfrith*
+- **A mysterious new person**: This Turning Point automatically Invokes a New Character, added to the List, whose identity or purpose is not fully known. Maybe they are a shadowy visitor at a meeting, or someone who seems to have authority over someone else. *Created new arrival to the monastery, Tenfrith*
+- **A need to hide**: A Character must hide from something or someone in this Turning Point. For instance, the Character may have escaped from a bounty hunter but must hide long enough to recover their wounds. Or, a terrible storm has struck and the Character must take shelter, hiding from the storm. *Tenfrith*
