@@ -1,4 +1,4 @@
-# Session X
+# Session 1
 
 **Date**: 2021-09-11  
 **System**: D&D 5e  
@@ -19,11 +19,9 @@ Narrative is written like this.
 The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.
 
 ## Scene 1
-**Setup**: Zothao waits the arrival of the new initiate
-
-**Altered/Interrupted**: [Divide, the spiritual] Zothao awaits the arrival of the new initiate at the port, a few kilometres from the monastery.
-
-**What's fun about this scene**: Just exploring Zothao's world and the protocols and atmosphere of the monastery.
+**Setup**: Zothao waits the arrival of the new initiate  
+**Altered/Interrupted**: [Divide, the spiritual] Zothao awaits the arrival of the new initiate at the port, a few kilometres from the monastery.  
+**What's fun about this scene**: Just exploring Zothao's world and the protocols and atmosphere of the monastery.  
 
 Yreni Docks, Isle of Dandrak. Zothao afraid of the docks. Doesn't like people. Doesn't like how close he is to the edge of the rock. What if he fell? What would it be like? He feels queasy, and attempts to meditate, take his mind off it. Minutes pass. Then hours. A young dockworker brings him a bowl of water, to which Zothao expresses his gratitude. Water. The most precious resource on Arianus. Islands of earth floating in an endless sky. Rain is rare, and not a single drop of water can be wasted.
 
@@ -52,17 +50,14 @@ As the ship nears the jetty, the sounds of barked orders can be heard. Eventuall
     Descriptors: 92. Hurt.  
     I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
 
-Zothao stands proud, anxious not to represent the monastery in the best light possible, but also assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
+Zothao stands proud, anxious to represent the monastery in the best light possible, but also to assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
 
 People stream past him, but none of them give him a second look. Has he missed them? No. He groans inwardly as the last people off the ship carry a palanquin. Ah. So this is the new initiate. A royal scion so delicate that they can't even walk themselves off a boat. Just his luck.
 
 ## Scene 2
-
-**Setup**: Zothao meets the new arrival
-
-**Altered/Interrupted**: No
-
-**What's fun about this scene**: Finding out who this person is and interacting with them.
+**Setup**: Zothao meets the new arrival  
+**Altered/Interrupted**: No  
+**What's fun about this scene**: Finding out who this person is and interacting with them.  
 
 Zothao moves to greet the palanquin.
 
@@ -77,7 +72,7 @@ Zothao moves to greet the palanquin.
 > ...Consummate Sorrow. I am here to escort you to the monastery.
 
     How does Prince Tenfrith react? [Kill, the mundane]
-    What is he like? Poor. Maybe ill?
+    What is he like? Roll on Character Descriptors in Adventure Crafter. Poor. Maybe he's ill?
 
 Zothao hears a weak, but cheerful voice from within the palanquin.
 
@@ -111,20 +106,16 @@ He hesitates to use the correct form of address. If the prince is to be an initi
 > ZOTHAO  
 > If you will follow me. The monastery is some distance from the town. We have something of a walk ahead of us.
 
-The guards carrying the palanquin follow behind Zothao as he leads them through the town and out into the surrounding pasturelands.
+The guards carrying the palanquin follow behind Zothao as he leads them through the town and out into the surrounding pasture lands.
 
-/*
-|-------------------------------------------
-| SCENE 3
-|-------------------------------------------
-| Setup: [Abandon, riches] A few days later, Tenfrith talks to Zothao about leaving behind the trappings of his life in the capital
-| What's fun about this scene: Learning more about Tenfrith and seeing how Zothao reacts. Will he pull rank?
-|-------------------------------------------
-*/
+# Scene 3
+**Setup**: [Abandon, riches] A few days later, Tenfrith talks to Zothao about leaving behind the trappings of his life in the capital  
+**Altered/Interrupted**: No  
+**What's fun about this scene**: Learning more about Tenfrith and seeing how Zothao reacts. Will he pull rank?  
 
 Monastery of the Consummate Sorrow. Zothao has been tasked with supervising Tenfrith's catechumanship.
 
-	| What exactly are they doing right now? [Judge, illness] They are talking about Tenfrith's health.
+    What exactly are they doing right now? [Judge, illness] They are talking about Tenfrith's health.
 
 > ZOTHAO  
 > But wouldn't you have been better looked after at court, in your own home? Surely, your family would have servants who could help you.
@@ -136,7 +127,7 @@ Monastery of the Consummate Sorrow. Zothao has been tasked with supervising Tenf
 > We learn to fight in order to perfect the body and defend the weak. That means you.
 
 > TENFRITH  
->  Zothao, I may look weak, but I don't need helping. How many times do I have to tell you   this.
+>  Zothao, I may look weak, but I don't need helping. How many times do I have to tell you this.
 
 > ZOTHAO  
 > Actions speak louder, Prince. You can barely walk.
@@ -170,14 +161,10 @@ Monastery of the Consummate Sorrow. Zothao has been tasked with supervising Tenf
 
 Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's limbs.
 
-/*
-|-------------------------------------------
-| SCENE 4
-|-------------------------------------------
-| Setup: [Betray, travel] Cut scene in which one of Tenfrith's fellow travellers reports back to superiors.
-| What's fun about this scene: New characters (faction?)
-|-------------------------------------------
-*/
+## Scene 4
+**Setup**: [Betray, travel] Cut scene in which one of Tenfrith's fellow travellers reports back to superiors.  
+**Altered/Interrupted**: No  
+**What's fun about this scene**: New characters (faction?)
 
 Dorenei. The treasury keeper's tower. Monteflore bows slightly.
 
