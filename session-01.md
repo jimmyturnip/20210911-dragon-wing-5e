@@ -180,6 +180,8 @@ Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's
 **Altered/Interrupted**: No  
 **What's fun about this scene**: New characters (faction?)
 
+    NOTE: Monteflore and Atheppio were generated in the Royal House of Dorenei Court document.
+
 Dorenei. The treasury keeper's tower. Monteflore bows slightly.
 
 > MONTEFLORE  
