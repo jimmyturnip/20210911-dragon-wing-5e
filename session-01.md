@@ -4,6 +4,7 @@
 **System**: D&D 5e  
 **GME**: Mythic  
 **Characters**: Zothao  
+**Content Warning**: Ableism  
 
 ## Formatting Guide
 
