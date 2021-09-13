@@ -1,22 +1,10 @@
-/*
-|------------------------------------------
-| ADVENTURE CRAFTER TEMPLATE
-|------------------------------------------
-*/
+# Adventure Crafter Template
 
-/*
-|------------------------------------------
-| Setting
-|------------------------------------------
-*/
+## Setting
 
 World of Arianus.
 
-/*
-|------------------------------------------
-| Plot Point Themes
-|------------------------------------------
-*/
+## Plot Point Themes
 
 1-4	Mystery
 5-7	Personal
@@ -25,19 +13,11 @@ World of Arianus.
 
 http://localhost/adventure-crafter/src/?a=3&t=5&m=1&s=4&p=2
 
-/*
-|------------------------------------------
-| Plotline Notes
-|------------------------------------------
-*/
+## Plotline Notes
 
-[Keep notes on your plotlines here]
+[I use this as a workspace for developing plotlines]
 
-/*
-|------------------------------------------
-| Plotlines List
-|------------------------------------------
-*/
+## Plotlines List
 
 01-04	The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.
 05-08	New plotline
@@ -65,11 +45,7 @@ http://localhost/adventure-crafter/src/?a=3&t=5&m=1&s=4&p=2
 93-96	Choose most logical plotline
 97-00	Choose most logical plotline
 
-/*
-|------------------------------------------
-| Characters List
-|------------------------------------------
-*/
+## Character List
 
 01-04	Zothao
 05-08	Tzin (guard, uniformed, inept - in love)
