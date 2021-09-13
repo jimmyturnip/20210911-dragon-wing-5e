@@ -1,25 +1,8 @@
 # Mythic Adventure Crafter
 
-## Setting
-
-World of Arianus.
-
-## Plot Point Themes
-
-1-4	Mystery  
-5-7	Personal  
-8-9	Action  
-10	Social/Tension  
-
-http://localhost/adventure-crafter/src/?a=3&t=5&m=1&s=4&p=2
-
-## Plotline Notes
-
-[I use this as a workspace for developing plotlines]
-
 ## Plotlines List
 
-01-04	The gods giveth, and the gods taketh away: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.  
+01-04	*The gods giveth, and the gods taketh away*: Zothao's friend, Tzin, has gone missing. Meanwhile, Zothao has been tasked with welcoming a new arrival to the monastery.  
 05-08	New plotline  
 09-12	Choose most logical plotline  
 13-16	Choose most logical plotline  
@@ -73,4 +56,23 @@ http://localhost/adventure-crafter/src/?a=3&t=5&m=1&s=4&p=2
 93-96	Choose most logical character  
 97-00	New character  
 
+## Plot Point Themes
 
+1-4	Mystery  
+5-7	Personal  
+8-9	Action  
+10	Social/Tension  
+
+http://localhost/adventure-crafter/src/?a=3&t=5&m=1&s=4&p=2
+
+## Plotline Notes
+
+I use this as a workspace for developing plotlines.
+
+### The gods giveth and the gods taketh away
+
+Can't remember which results I rolled on the Adventure Crafter. There were three, something like:
+
+- **A character disappears**. A Character is nowhere to be found. Whether there is evidence or not as to what happened to the Character is up to you depending on the other Plot Points involved in this Turning Point. *Created Zothao's friend, Tzin*
+- **A Mysterious New Person**: This Turning Point automatically Invokes a New Character, added to the List, whose identity or purpose is not fully known. Maybe they are a shadowy visitor at a meeting, or someone who seems to have authority over someone else. *Created new arrival to the monastery, Tenfrith*
+- **A Need to Hide**: A Character must hide from something or someone in this Turning Point. For instance, the Character may have escaped from a bounty hunter but must hide long enough to recover their wounds. Or, a terrible storm has struck and the Character must take shelter, hiding from the storm. *Tenfrith*
