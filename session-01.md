@@ -46,7 +46,11 @@ The ship aligns with the isle's plane, and glides towards the dock. A hammership
 
 As the ship nears the jetty, the sounds of barked orders can be heard. Eventually, it pulls in. The gangplank is lowered, and a line of people begins to descend onto the dock.
 
-    Who is the visitor? Character Crafter. 51. Member of an organisation. 40. Administrator. 92. Hurt. I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
+    Who is the visitor? Use the Character Crafter from *Mythic Adventure Crafter*.  
+    Special Trait: 51. Member of an organisation.  
+    Identity: 40. Administrator.  
+    Descriptors: 92. Hurt.  
+    I'll say it's a member of royalty who's been sent to the monastery to recover from an injury or illness.
 
 Zothao stands proud, anxious not to represent the monastery in the best light possible, but also assert his authority to this new initiate, a junior member of Dorinei, the capital city's, royalty.
 
@@ -64,12 +68,12 @@ Zothao moves to greet the palanquin.
 
     What's the name of this person? Tenfrith.
 
-> ZOTHAO
+> ZOTHAO  
 > Prince Tenfrith, I presume? Welcome to Dendrak. I am Zothao, brother of the...
 
     What's Zothao's order called? [Usurp, suffering] Order of the Consummate Sorrow.
 
-> ZOTHAO
+> ZOTHAO  
 > ...Consummate Sorrow. I am here to escort you to the monastery.
 
     How does Prince Tenfrith react? [Kill, the mundane]
@@ -77,12 +81,12 @@ Zothao moves to greet the palanquin.
 
 Zothao hears a weak, but cheerful voice from within the palanquin.
 
-> TENFRITH
+> TENFRITH  
 > Zothao! Yes, I am indeed Tenfrith. Thank you, my journey has been long.
 
 There's a pause as a phlegmy cough erupts from inside.
 
-> TENFRITH
+> TENFRITH  
 > Please, do not put on airs and graces for me. Let me look at you.
 
 The faint silhouette of a figure, obscured by the gossamer curtains of the palanquin, leans forward.
@@ -93,18 +97,18 @@ Zothao is slender but sinewy after years of physical training and labour. His he
 
 He wears the standard white linen hooded poncho and trousers typical of his order. Flagrant displays of the body are discouraged among the followers of the Consummate Sorrow.
 
-> TENFRITH
+> TENFRITH  
 > Would you lower your hood?
 
-> ZOTHAO
+> ZOTHAO  
 > I... I'm afraid that is forbidden in public, Prince.
 
 He hesitates to use the correct form of address. If the prince is to be an initiate, he must relinquish any past titles or binds to the world, just as Zothao did.
 
-> TENFRITH
+> TENFRITH  
 > Of course, forgive me.
 
-> ZOTHAO
+> ZOTHAO  
 > If you will follow me. The monastery is some distance from the town. We have something of a walk ahead of us.
 
 The guards carrying the palanquin follow behind Zothao as he leads them through the town and out into the surrounding pasturelands.
@@ -122,47 +126,47 @@ Monastery of the Consummate Sorrow. Zothao has been tasked with supervising Tenf
 
 	| What exactly are they doing right now? [Judge, illness] They are talking about Tenfrith's health.
 
-	ZOTHAO
-	But wouldn't you have been better looked after at court, in your own home? Surely, your family would have servants who could help you.
+> ZOTHAO  
+> But wouldn't you have been better looked after at court, in your own home? Surely, your family would have servants who could help you.
 
-	TENFRITH
-	Well, first of all, my friend, I don't need to be "looked after", at least not as much as you think. Secondly, the palace is not safe at the moment. The royal family has many enemies. Every time you turn a corner, there could be a knife with your name on it. At least here, I'll be taught how to fight back.
+> TENFRITH  
+> Well, first of all, my friend, I don't need to be "looked after", at least not as much as you think. Secondly, the palace is not safe at the moment. The royal family has many enemies. Every time you turn a corner, there could be a knife with your name on it. At least here, I'll be taught how to fight back.
 
-	ZOTHAO
-	We learn to fight in order to perfect the body and defend the weak. That means you.
+> ZOTHAO  
+> We learn to fight in order to perfect the body and defend the weak. That means you.
 
-	TENFRITH
-	Zothao, I may look weak, but I don't need helping. How many times do I have to tell you this.
+> TENFRITH  
+>  Zothao, I may look weak, but I don't need helping. How many times do I have to tell you   this.
 
-	ZOTHAO
-	Actions speak louder, Prince. You can barely walk.
+> ZOTHAO  
+> Actions speak louder, Prince. You can barely walk.
 
-	TENFRITH
-	Tell me, my friend. Can a man plough a field bare-handed?
+> TENFRITH  
+> Tell me, my friend. Can a man plough a field bare-handed?
 
-	ZOTHAO
-	Well, I... I suppose he could, given enough time.
+> ZOTHAO  
+> Well, I... I suppose he could, given enough time.
 
-	TENFRITH
-	But it would be difficult. He might cut himself on a rock, no?
+> TENFRITH  
+> But it would be difficult. He might cut himself on a rock, no?
 
-	ZOTHAO
-	Yes...
+> ZOTHAO  
+> Yes...
 
-	TENFRITH
-	And it would take a long time. Much longer than using the correct tool. No?
+> TENFRITH  
+> And it would take a long time. Much longer than using the correct tool. No?
 
-	ZOTHAO
-	Yes, but...
+> ZOTHAO  
+> Yes, but...
 
-	TENFRITH
-	And so it is with me. I may not be able to walk perfectly. I may not even be able to fight. But with the appropriate tools and support, I can manage just as well as anyone else.
+> TENFRITH  
+> And so it is with me. I may not be able to walk perfectly. I may not even be able to fight. But with the appropriate tools and support, I can manage just as well as anyone else.
 
-	ZOTHAO
-	There is wisdom in what you say.
+> ZOTHAO  
+> There is wisdom in what you say.
 
-	TENFRITH
-	Of course there is. I'm the prince!
+> TENFRITH  
+> Of course there is. I'm the prince!
 
 Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's limbs.
 
@@ -177,36 +181,36 @@ Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's
 
 Dorenei. The treasury keeper's tower. Monteflore bows slightly.
 
-	MONTEFLORE
-	Your Grace.
+> MONTEFLORE  
+> Your Grace.
 
 The knight squints in the dimness of the treasure keeper's chamber. The treasure keeper himself sits behind his desk. The chamber smells of incense and must.
 
-	ATHEPPIO
-	I trust your errand was successful.
+> ATHEPPIO  
+> I trust your errand was successful.
 
 The rings on his fingers glint in the dim light.
 
-	MONTEFLORE
-	Indeed. The prince has arrived on Dandrak. I do not believe he suspects me, your grace.
+> MONTEFLORE  
+> Indeed. The prince has arrived on Dandrak. I do not believe he suspects me, your grace.
 
-	ATHEPPIO
-	Good. Very good. The prince must not leave that island alive. See to it.
+> ATHEPPIO  
+> Good. Very good. The prince must not leave that island alive. See to it.
 
-	MONTEFLORE
-	Your Grace, what we're doing... I... I have doubts, I must confess. Is it really...
+> MONTEFLORE  
+> Your Grace, what we're doing... I... I have doubts, I must confess. Is it really...
 
 The treasury keeper raises his hand.
 
-	ATHEPPIO
-	Hush, my son. I understand your feelings. The weight of this task bears heavily on us all. But we must remember why we are here, the greater purpose. The royal house is on a course that will lead to the ruin of Dorenei. Actions must be taken that may not be the most... pleasant. But taken they must be. Have faith, my son. Soon, Dorenei's course will be corrected, and we will emerge a nation stronger than ever before.
+> ATHEPPIO  
+> Hush, my son. I understand your feelings. The weight of this task bears heavily on us all. But we must remember why we are here, the greater purpose. The royal house is on a course that will lead to the ruin of Dorenei. Actions must be taken that may not be the most... pleasant. But taken they must be. Have faith, my son. Soon, Dorenei's course will be corrected, and we will emerge a nation stronger than ever before.
 
-	| Does Atheppio convince Monteflore? Charisma (Persuasion) +7, DC 12. 13. Success, just about.
+    Does Atheppio convince Monteflore? Charisma (Persuasion) +7, DC 12. 13. Success, just about.
 
 The knight nods.
 
-	MONTEFLORE
-	Yes, your Grace. I am wrong to doubt. Have no fear. Your will be done.
+> MONTEFLORE  
+> Yes, your Grace. I am wrong to doubt. Have no fear. Your will be done.
 
 Atheppio gestures, meeting concluded. As Monteflore steps out, he pauses, ever so briefly at the door, but continues on his way, resolved to the task he must now fulfil.
 
