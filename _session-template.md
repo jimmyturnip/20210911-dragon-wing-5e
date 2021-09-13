@@ -51,3 +51,6 @@ Narrative is written like this.
 **Setup**:  
 **Altered/Interrupted**:  
 **What's fun about this scene**:  
+
+
+[Add links to next and previous sessions]

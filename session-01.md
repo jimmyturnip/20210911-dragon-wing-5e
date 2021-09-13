@@ -120,7 +120,7 @@ The guards carrying the palanquin follow behind Zothao as he leads them through 
 
 
 
-# Scene 3
+## Scene 3
 **Setup**: [Abandon, riches] A few days later, Tenfrith talks to Zothao about leaving behind the trappings of his life in the capital  
 **Altered/Interrupted**: No  
 **What's fun about this scene**: Learning more about Tenfrith and seeing how Zothao reacts. Will he pull rank?  
@@ -219,3 +219,5 @@ The knight nods.
 > Yes, your Grace. I am wrong to doubt. Have no fear. Your will be done.
 
 Atheppio gestures, meeting concluded. As Monteflore steps out, he pauses, ever so briefly at the door, but continues on his way, resolved to the task he must now fulfil.
+
+[Session 2](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-02.md)

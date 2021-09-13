@@ -59,3 +59,5 @@ Yreni, Dandrak Isle. Besides the monastery, Dandrak has a large lake and plenty 
 **Altered/Interrupted**:  
 **What's fun about this scene**:  
 
+
+[Add links to next and previous sessions]
