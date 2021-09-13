@@ -1,6 +1,6 @@
 **Name**: Zothao  
 **Race**: Half-Orc  
-**Class & Level**: Monk 1
+**Class & Level**: Monk 1  
 **Background**: Acolyte  
 
 Str 11 (+0)  

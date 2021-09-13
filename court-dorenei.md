@@ -1,5 +1,7 @@
 # The Royal House of Dorenei
 
+Generated using the Court rules from the *Godbound* RPG.
+
 **Power Structure**: Autocratic. The queen is the leader of the royal family, and therefore, the nation of Dorenei.
 
 **Court Type**: Aristocratic.
