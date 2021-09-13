@@ -111,9 +111,42 @@ In the courier's office, Zothao approaches the figure sitting at a scribe's desk
     Name: Manse  
     Has Zothao met Manse before (50%)? 88. No.
 
-[Image of Manse, the air genasi](https://i0.wp.com/nerdarchy.com/wp-content/uploads/2017/09/air-genasi-2.png?w=319&ssl=1)
+    Author's Note: This feels like a bit of a distraction, but who knows, maybe this  
+    character is somehow important? Racial pre-determinism isn't fun, but I'm wondering  
+    if air genasis might have some special role in this setting. Maybe they're more  
+    likely that others to become couriers - not because of their race, more their  
+    abilities. Meh...
 
+The figure behind the desk looks human initially, but Zothao sees their pale blue skin (not unlike his own), pale feathers for hair, and strange many-pupilled eyes. A genasi. Children's stories tell that these beings came down from the starry Firmament. Well, to the business at hand.
 
+> ZOTHAO  
+> Excuse me, I'm looking for someone. They were seen here a few days ago. Do you know guardsman Tzin?
+
+    How does Manse respond? Is he friendly (65%)? 66. Not quite.
+
+The genasi rises from his chair, almost weightlessly, and moves over to Zothao. His movements are of one whose feet don't touch the ground. He comes to stand in front of Zothao. His strange eyes behold him, reading him up and down, and Zothao begins to feel awkward.
+
+> MANSE  
+> A monk? From the Consummate Sorrow? How wonderful!
+
+The flicker of a smile passes his lips. His head moves, shifting then fixing in place, then shifting again like a bird. Zothao feels a gentle breeze against his skin, faint, barely there.
+
+> ZOTHAO  
+> Yes. Ah. I'm looking for a guardsman. He came here a few days ago. Perhaps there was a problem of some kind? Did he try to send a letter?
+
+    Charisma (Persuasion) +1 vs DC 12 to see if Zothao can get the genasi to talk.
+    Get 5. Fail.
+
+The genasi smiles, and continues just watching Zothao for a moment.
+
+    What's his behaviour like? [Move, joy]
+
+Suddenly, the genasi erupts in shrill laughter. Zothao wrinkles his brow. He's beginning to lose his patience. He speaks more firmly.
+
+> ZOTHAO  
+> I'm looking for a friend. He might be in trouble. Can you help me?
+
+> MANSE  
 
 
 
