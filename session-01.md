@@ -1,5 +1,7 @@
 # Session 1
 
+*Zothao receives Tenfrith at the docks. Zothao's unbending devotion to the monastery's rules amuses the prince. Tenfrith schools Zothao on his illness and abilities. Atheppio gives Monteflore unsavoury new orders.*
+
 **Date**: 2021-09-11  
 **System**: D&D 5e  
 **GME**: Mythic  

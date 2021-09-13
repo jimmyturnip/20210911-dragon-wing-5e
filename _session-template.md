@@ -1,5 +1,7 @@
 # Session X
 
+*[Write summary here.]*
+
 **Date**: 2021-MM-DD  
 **System**: D&D 5e  
 **GME**: Mythic  

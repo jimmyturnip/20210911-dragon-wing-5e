@@ -1,6 +1,8 @@
 # Session 2
 
-**Date**: 2021-11-13  
+*[Write summary here.]*
+
+**Date**: 2021-09-13  
 **System**: D&D 5e  
 **GME**: Mythic  
 **Characters**: Zothao  
