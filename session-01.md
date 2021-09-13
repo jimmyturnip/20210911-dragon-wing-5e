@@ -180,14 +180,15 @@ Zothao grunts. The chirurgeon continues her work, poking and prodding Tenfrith's
 **Altered/Interrupted**: No  
 **What's fun about this scene**: New characters (faction?)
 
-    NOTE: Monteflore and Atheppio were generated in the [Royal House of Dorenei](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/court-dorenei.md) Court document.
+    NOTE: Monteflore and Atheppio were generated in the Royal House of Dorenei Court document:
+    [Royal House of Dorenei](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/court-dorenei.md)
 
-Dorenei. The treasury keeper's tower. Monteflore bows slightly.
+Dorenei. The chancellor's tower. Monteflore bows slightly.
 
 > MONTEFLORE  
 > Your Grace.
 
-The knight squints in the dimness of the treasure keeper's chamber. The treasure keeper himself sits behind his desk. The chamber smells of incense and must.
+The knight squints in the dimness of the chancellor's chamber. The chancellor himself sits behind his desk. The chamber smells of incense and must.
 
 > ATHEPPIO  
 > I trust your errand was successful.
@@ -203,7 +204,7 @@ The rings on his fingers glint in the dim light.
 > MONTEFLORE  
 > Your Grace, what we're doing... I... I have doubts, I must confess. Is it really...
 
-The treasury keeper raises his hand.
+The chancellor raises his hand.
 
 > ATHEPPIO  
 > Hush, my son. I understand your feelings. The weight of this task bears heavily on us all. But we must remember why we are here, the greater purpose. The royal house is on a course that will lead to the ruin of Dorenei. Actions must be taken that may not be the most... pleasant. But taken they must be. Have faith, my son. Soon, Dorenei's course will be corrected, and we will emerge a nation stronger than ever before.
@@ -216,5 +217,3 @@ The knight nods.
 > Yes, your Grace. I am wrong to doubt. Have no fear. Your will be done.
 
 Atheppio gestures, meeting concluded. As Monteflore steps out, he pauses, ever so briefly at the door, but continues on his way, resolved to the task he must now fulfil.
-
-

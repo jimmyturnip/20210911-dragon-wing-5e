@@ -7,7 +7,7 @@
 **Major Actors**:
 
 - Cyriene. Titular ruler. Much loved by the common people.
-- Atheppio. Treasury keeper. Has access to the state treasury.
+- Atheppio. Treasury keeper (chancellor). Has access to the state treasury.
 - Wirann. Ruler's spouse or lover. Has ties with powers in a neighboring state.
 
 **Conflict**: Dispute over the heir. The treasury keeper is stirring dissent, suggesting that the current heir is corruptible by his father’s ties to the neighbouring state.
