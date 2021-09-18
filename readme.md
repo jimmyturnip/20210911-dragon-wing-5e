@@ -18,12 +18,12 @@ This repo contains the files for my solo D&D 5th Edition game. The setting is a 
 
 ## Campaign Docs
 
-- (A-Z \(People and Places\))[https://github.com/jimmyturnip/dragon-wing-5e/blob/master/a-z.md]
-- (Setting)[https://github.com/jimmyturnip/dragon-wing-5e/blob/master/setting.md]
-- (Zothao's Character Sheet)[https://github.com/jimmyturnip/dragon-wing-5e/blob/master/pc-zothao.md]
+- [A-Z \(People and Places\)](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/a-z.md)
+- [Setting](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/setting.md)
+- [Zothao's Character Sheet](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/pc-zothao.md)
 
 ## Sessions
 
-- (Session 1)[https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-01.md]
-- (Session 2)[https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-02.md]
+- [Session 1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-01.md)
+- [Session 2](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-02.md)
 
