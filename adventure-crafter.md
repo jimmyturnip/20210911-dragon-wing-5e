@@ -36,7 +36,7 @@
 13-16	Order of the Consummate Sorrow (court)  
 17-20	Prince Tenfrith  
 21-24	Monteflore (principled, fighter), spy who followed Tenfrith to Dandrak  
-25-28	New character  
+25-28	Iron Hand (court)  
 29-32	Choose most logical character  
 33-36	New character  
 37-40	New character  

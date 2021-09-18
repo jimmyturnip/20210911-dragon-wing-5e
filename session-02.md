@@ -113,7 +113,7 @@ In the courier's office, Zothao approaches the figure sitting at a scribe's desk
 
     Author's Note: This feels like a bit of a distraction, but who knows, maybe this  
     character is somehow important? I'm struggling against my urge to include some kind  
-    of racial pre-determinism about genasis, but let's try and avoid that!
+    of racial pre-determinism about genasis, but let's avoid that.
 
 The figure behind the desk looks human initially, but Zothao sees their pale blue skin (not unlike his own), pale feathers for hair, and strange many-pupilled eyes. A genasi. Children's stories tell that these beings came down from the starry Firmament. Well, to the business at hand.
 
@@ -144,9 +144,32 @@ Suddenly, the genasi erupts in shrill laughter. Zothao wrinkles his brow. He's b
 > ZOTHAO  
 > I'm looking for a friend. He might be in trouble. Can you help me?
 
+    Let's establish some facts - what Manse is willing to tell Zothao.
+    Did Tzin come to the courier's officer (85%)? 53. Yes.
+    Was he trying to send a letter to his lover (75%)? 57. Yes.
+    Was he successful (35%)? 90. Exceptional no.
+    Was he arrested (75%)? 81. No.
+    Was he kidnapped (75%)? 13. Exceptional yes.
+    Who was he kidnapped by? [Punish, outside] Some kind of immigration inspector? But vigilantes?
+
 > MANSE  
+> I can help very little, I'm afraid. Your friend was taken, you see. He tried to send a message, but the Hands took him.
 
+> ZOTHAO  
+> The Hands? The Iron Hands? Shit! Why?
 
+> MANSE  
+> Who can say? I never saw your friend's note. Perhaps he's be collaborating with enemies. Be wary of involving yourself there, my friend.
+
+    I'll add the Iron Hand - some kind of xenophobic vigilante group - to the A-Z and Adventure Crafter lists.
+
+Zothao thinks for a moment.
+
+    What does he know anything about the Iron Hand? Intelligence (History) -1. Get 16.
+
+The Iron Hand are well known on Dandrak. As talk of war escalates, their leader, a charismatic demagogue, has been gaining popularity and influence. Now, even the guards are beginning to turn a blind eye when they strike. Tzin was always outspoken about his disgust for them, not least because his lover is not from Dorenei.
+
+So, the Iron Hand has him. Is Zothao willing to risk his own life to save his friend?
 
 ## Scene X
 **Setup**:  

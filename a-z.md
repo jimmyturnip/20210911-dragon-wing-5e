@@ -26,9 +26,13 @@ A powerful monarchy of the Mid Realm. Ruled by Queen Cyriene. Territory encompas
 
 Lady Eray is the administrative ruler of Dandrak. Although not obliged to, she often submits to the abbot of the Consummate Sorrow, Vathras.
 
+## Iron Hand
+
+A xenophobic vigilante group on Dandrak. They seek those they consider to be enemy collaborators and put them to swift justice.
+
 ## Manse
 
-Air genasi courier in Yreni, Dandrak isle.
+Air genasi courier in Yreni, Dandrak isle. He has pale blue skin (not unlike his own), pale feathers for hair, and strange many-pupilled eyes
 
 ## Monteflore
 
