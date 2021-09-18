@@ -7,6 +7,7 @@ This repo contains the files for my solo D&D 5th Edition game. The setting is a 
 ## Gaming resources used
 
 - *Dungeons & Dragons 5th Edition*, by Wizards of the Coast
+- *Spelljammer Campaign Setting* for AD&D 2nd Edition, by TSR
 - *Mythic Game Master Emulator*, by Tana Pigeon
 - *The Adventure Crafter*, by Tana Pigeon
 - *Godbound RPG*, by Kevin Crawford
