@@ -66,13 +66,47 @@ Two thugs. Zothao's training has focused on peace and serenity, but he knows he 
 The door opens. Zothao strikes.
 
     Zothao makes a Dexterity (Stealth) check vs the **bandit's** passive Perception of 10. 12. Success.
-    What's the bandit's race? (d10) 1 dwarf, 2 elf, 3 halfling, 4 human, 5 dragonborn, 6 gnome, 7 half-elf, 8 half-orc, 9 tiefling, 0 other.
+    What's the bandit's race? (d10) 1 dwarf, 2 elf, 3 halfling, 4 human, 5 dragonborn,  
+    6 gnome, 7 half-elf, 8 half-orc, 9 tiefling, 0 other.
     Get 7, half-elf.
     What's the bandit's gender? (d6) 1-3 male, 4-5 female, 6 non-binary/trans. 6 non-binary.
 
 He grabs the half-elf by the scruff of the neck and covers their mouth before they can cry for help.
 
-    Let's call this a grapple. Make contested Strength (Athletics) checks (+0 vs +0). Zothao gets 14, the half-elf gets 16.
+    Let's call this a grapple. Make contested Strength (Athletics) checks (+0 vs +0).  
+    Zothao gets 14, the half-elf gets 16.
+
+Lord of Night! The half-elf twists themself out of Zothao's grasp.
+
+    COMBAT  
+    Initiative: Zothao 23, Half-Elf Bandit 19 (13 hp)
+
+    ROUND 1  
+    Zothao draws his shortsword and attacks. +6 vs AC 12. 16. Hits for 9 (1d6+4) damage. Bandit is down to 4 hp.  
+    Does the bandit try to fight (50%)? 99, exceptional no, plus event [NPC action, gratify, prison]  
+    Bandit disengages and calls for help
+
+Zothao's blade flashes in the dim reflected light of a lantern. He opens a nasty cut across the bandit's chest, and they step back, shouting a warning into the darkness.
+
+    Does the second bandit join the fight (75%)? 29. Yes.  
+    What's the second bandit's race and gender? 9 tiefling, 5 female.
+
+    Initiative: Zothao 23, Half-Elf Bandit 19 (4 hp), Tiefling Bandit 10 (8 hp)
+
+    ROUND 2  
+    Zothao attacks the half-elf bandit with a dart. +6 vs AC 12. 20. Hits for 5 damage. Out.
+    He rushes in to engage the second bandit.
+    Second bandit attacks. +3 vs AC 16. 17. Hits for 4 (1d6+1) damage.
+
+In the dim light beyond the door, Zothao sees that a second bandit is preparing to fight. Thinking quickly, he draws a dart from his belt and throws it at the half-elf. They go down with a groan of pain. Zothao rushes in, but the second bandit, a tiefling woman, has time to draw a wicked-looking scimitar and attack. A stain of blood expands across his right shoulder where the blade penetrates.
+
+    ROUND 3  
+    Zothao tries to stab at the woman. +6 vs AC 12. 14. Hits for 6 damage. Tiefling is down to 2 hp.
+    Does the tiefling run? Make a Wisdom saving throw. +0 vs DC 10. 18. Yes.
+    The tiefling disengages and runs deeper into the warehouse.
+
+Zothao retaliates with his own blade, and scores an unpleasant wound of the tiefling's arm. She cries out, dances around his next blow, and runs deeper into the warehouse.
+
 
 
 

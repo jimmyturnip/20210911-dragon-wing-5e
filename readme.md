@@ -27,4 +27,5 @@ This repo contains the files for my solo D&D 5th Edition game. The setting is a 
 
 - [Session 1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-01.md)
 - [Session 2](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-02.md)
+- [Session 3](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-03.md)
 

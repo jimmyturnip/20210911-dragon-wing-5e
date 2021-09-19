@@ -11,7 +11,7 @@ Wis 14 (+2)
 Cha 13 (+1)  
 
 **AC**: 16 (+4 Dex, +2 Wis)  
-**HP**: 11
+**HP**: 11, 7
 
 **Racial Traits**:
 
