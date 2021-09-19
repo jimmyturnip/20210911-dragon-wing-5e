@@ -1,12 +1,11 @@
 # Session 2
 
-*[Write summary here.]*
+*Zothao seeks his friend, Tzin. He finds out that Tzin was taken by a xenophobic vigilante group when he tried to send a letter to his loved one, who lives outside the kingdom.*
 
 **Date**: 2021-09-13  
 **System**: D&D 5e  
 **GME**: Mythic  
 **Characters**: Zothao  
-**Content Warnings**: Ableism    
 
 ## Formatting Guide
 
@@ -170,31 +169,6 @@ Zothao thinks for a moment.
 The Iron Hand are well known on Dandrak. As talk of war escalates, their leader, a charismatic demagogue, has been gaining popularity and influence. Now, even the guards are beginning to turn a blind eye when they strike. Tzin was always outspoken about his disgust for them, not least because his lover is not from Dorenei.
 
 So, the Iron Hand has him. Is Zothao willing to risk his own life to save his friend?
-
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
-
-
-
-
-
-
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
-
-
-
-
-
-
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
 
 
 [Session 1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-01.md) | [Session 3](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-03.md)

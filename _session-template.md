@@ -53,4 +53,4 @@ Narrative is written like this.
 **What's fun about this scene**:  
 
 
-[Add links to next and previous sessions]
+[Session X-1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md) | [Session X+1](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/session-xx.md)
