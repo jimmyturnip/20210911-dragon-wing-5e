@@ -103,7 +103,7 @@ In the dim light beyond the door, Zothao sees that a second bandit is preparing 
     ROUND 3  
     Zothao tries to stab at the woman. +6 vs AC 12. 14. Hits for 6 damage. Tiefling is down to 2 hp.
     Does the tiefling run? Make a Wisdom saving throw. +0 vs DC 10. 18. Yes.
-    The tiefling disengages and runs deeper into the warehouse.
+    The tiefling disengages.
 
 Zothao retaliates with his own blade, and scores an unpleasant wound of the tiefling's arm. She cries out, dances around his next blow, and runs deeper into the warehouse.
 
@@ -111,14 +111,25 @@ Zothao retaliates with his own blade, and scores an unpleasant wound of the tief
 
 
 
-## Scene X
-**Setup**:  
-**Altered/Interrupted**:  
-**What's fun about this scene**:  
+## Scene 2
+**Setup**: Zothao stalks the tiefling into the warehouse.   
+**Altered/Interrupted**: [Create, danger] Zothao follows the tiefling into a trap.  
+**What's fun about this scene**: Will Zothao survive the trap?
 
+Fool, fool, fool! Allowing the tiefling to escape was a big mistake. Zothao follows her through into the next, much larger area of the warehouse.
 
+    Use Terrain Randomizer by José Manuel Navarro.
+    Area is Large.
+    6 (1d6) zones: 1-small, 4-medium, 1-small, 5-medium, 2-medium, 5-medium
+    3 (1d3) elevation levels
 
+NOTE: See [Warehouse Map](https://github.com/jimmyturnip/dragon-wing-5e/blob/master/warehouse-terrain-randomizer.jpg) for drop-dice map of the warehouse. Red circles indicate elevation (1=ground level, 2=10-20 feet, 3=40 feet).
 
+    01 Oct 21: No time to do any more over the last two weeks, so glad to get back into it.
+
+    What is the lighting situation in the warehouse? Is it dark (85%)? 15. Yes.
+
+The warehouse is pitch black, but Zothao's natural darkvision allows him to see the outlines of shapes. Above him, nets containing sacks and boxes hand, suspended by tracks on the high ceiling. Stacks of shelves contain crates haphazardly stacked.
 
 
 ## Scene X
