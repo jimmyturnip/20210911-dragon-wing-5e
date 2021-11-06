@@ -129,7 +129,7 @@ NOTE: See [Warehouse Map](https://github.com/jimmyturnip/dragon-wing-5e/blob/mas
 
     What is the lighting situation in the warehouse? Is it dark (85%)? 15. Yes.
 
-The warehouse is pitch black, but Zothao's natural darkvision allows him to see the outlines of shapes. Above him, nets containing sacks and boxes hand, suspended by tracks on the high ceiling. Stacks of shelves contain crates haphazardly stacked.
+The warehouse is pitch black, but Zothao's natural darkvision allows him to see the outlines of shapes. Above him, nets containing sacks and boxes hang, suspended by tracks on the high ceiling. Stacks of shelves contain crates haphazardly stacked.
 
 
 ## Scene X
